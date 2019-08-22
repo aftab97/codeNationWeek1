@@ -1,0 +1,17 @@
+conversion of all the unix commands to windown commands
+https://skimfeed.com/blog/windows-command-prompt-ls-equivalent-dir/
+
+
+whoami  //shortcut for laptop name
+
+cd //sets the source folder e.g. cd Documents
+
+dir // lists directory contents
+
+cd..  //goes back one directory
+
+cd../..   //goes back two directories
+
+cd~   //goes back to home directory
+
+exit   //exits the terminal
